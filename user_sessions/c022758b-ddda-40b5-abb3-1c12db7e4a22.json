@@ -1,0 +1,87 @@
+{
+  "user_id": "c022758b-ddda-40b5-abb3-1c12db7e4a22",
+  "preferences": [
+    {
+      "preference_type": "unknown",
+      "value": "1 crore",
+      "confidence": 0.9
+    }
+  ],
+  "policies_discussed": [
+    {
+      "policy_name": "ICICI Pru iProtect Smart with Critical Illness Cover",
+      "policy_type": null,
+      "mentioned_in_turn": 1,
+      "source_document": null
+    },
+    {
+      "policy_name": "ICICI Pru Signature Pension",
+      "policy_type": null,
+      "mentioned_in_turn": 2,
+      "source_document": null
+    },
+    {
+      "policy_name": "Systematic Withdrawal Plan",
+      "policy_type": null,
+      "mentioned_in_turn": 2,
+      "source_document": null
+    },
+    {
+      "policy_name": "ICICI Pru Guaranteed Pension Plan Flexi",
+      "policy_type": null,
+      "mentioned_in_turn": 3,
+      "source_document": null
+    },
+    {
+      "policy_name": "ICICI Pru Signature Pension",
+      "policy_type": null,
+      "mentioned_in_turn": 3,
+      "source_document": null
+    },
+    {
+      "policy_name": "ICICI Pru GIFT Pro",
+      "policy_type": null,
+      "mentioned_in_turn": 5,
+      "source_document": null
+    },
+    {
+      "policy_name": "ICICI Pru Smart Kid Plan",
+      "policy_type": null,
+      "mentioned_in_turn": 5,
+      "source_document": null
+    }
+  ],
+  "policies_recommended": [
+    {
+      "policy_name": "ICICI Pru iProtect Smart with Critical Illness Cover",
+      "policy_type": null,
+      "mentioned_in_turn": 1,
+      "source_document": null
+    },
+    {
+      "policy_name": "ICICI Pru Guaranteed Pension Plan Flexi",
+      "policy_type": null,
+      "mentioned_in_turn": 3,
+      "source_document": null
+    },
+    {
+      "policy_name": "ICICI Pru Signature Pension",
+      "policy_type": null,
+      "mentioned_in_turn": 3,
+      "source_document": null
+    },
+    {
+      "policy_name": "ICICI Pru GIFT Pro",
+      "policy_type": null,
+      "mentioned_in_turn": 5,
+      "source_document": null
+    },
+    {
+      "policy_name": "ICICI Pru Smart Kid Plan",
+      "policy_type": null,
+      "mentioned_in_turn": 5,
+      "source_document": null
+    }
+  ],
+  "last_interaction": "2025-04-28T12:08:00.542813"
+}

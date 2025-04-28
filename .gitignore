@@ -1,0 +1,29 @@
+# Ignore environment variables
+.env
+
+# Ignore Python virtual environments
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Vector database and data files
+data/insurance_vector_db/
+data/insurance_chatbot/
+
+# Logs
+*.log
+
+# IDE specific files
+.vscode/
+.idea/

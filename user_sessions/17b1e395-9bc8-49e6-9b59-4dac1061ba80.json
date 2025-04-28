@@ -1,0 +1,21 @@
+{
+  "user_id": "17b1e395-9bc8-49e6-9b59-4dac1061ba80",
+  "preferences": [],
+  "policies_discussed": [
+    {
+      "policy_name": "ICICI Pru iProtect Smart with Critical Illness Cover",
+      "policy_type": null,
+      "mentioned_in_turn": 1,
+      "source_document": null
+    }
+  ],
+  "policies_recommended": [
+    {
+      "policy_name": "ICICI Pru iProtect Smart with Critical Illness Cover",
+      "policy_type": null,
+      "mentioned_in_turn": 1,
+      "source_document": null
+    }
+  ],
+  "last_interaction": "2025-04-28T11:58:20.581232"
+}
