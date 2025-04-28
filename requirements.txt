@@ -5,3 +5,4 @@ langchain-community
 pydantic
 PyMuPDF
 numpy
+chromadb
